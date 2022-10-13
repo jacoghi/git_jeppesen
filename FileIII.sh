@@ -1,1 +1,1 @@
-Configure everything
+Configure something here, something there
